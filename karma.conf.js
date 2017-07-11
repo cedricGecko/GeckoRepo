@@ -1,4 +1,3 @@
-#Ajout à enlever
 module.exports = function(config) {
 
   var appBase    = 'src/';       // transpiled app JS and map files
